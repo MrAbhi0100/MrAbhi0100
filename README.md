@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrAbhishek Mishra
 - 👀 I’m interested in Web Devlopment
-- 🌱 I’m currently learning Mearn Stack
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on product Based company
 - 📫 How to reach me-9315116896
 
